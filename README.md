@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a restaurant management system but I'm looking to collaborate on any C#, python or .NET related projects.<br>Fun fact: I'm fluent in French, Swahili and English. :)
+I'm currently working on at SunPro Systems Ltd as a systems developer, but I'm looking to collaborate on any C#, python or .NET related projects.<br>Fun fact: I'm fluent in French, Swahili and English. :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-mulwa-060351202) 
